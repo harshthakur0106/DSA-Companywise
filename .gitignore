@@ -1,0 +1,36 @@
+# Python bytecode files
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment directories
+venv/
+*.env
+
+# Ignore Streamlit's config and cache files
+.streamlit/
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore IDE/editor settings
+.vscode/
+.idea/
+
+# Ignore OS-specific files (macOS and Windows)
+.DS_Store
+Thumbs.db
+
+# Ignore data and answers directories if they are too large
+data/
+answers/
+
+# Ignore Python package distribution files
+*.egg
+*.egg-info
+dist/
+build/
+
+# Ignore Docker-related files
+Dockerfile
+.dockerignore
