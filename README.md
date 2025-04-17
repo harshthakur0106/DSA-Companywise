@@ -84,3 +84,7 @@ Once the app is loaded, you will be able to:
 2. Place it in your project repository so users can access detailed instructions on how to open and use the app once it's running in Docker.
 
 This guide helps users access the application after the Docker container is up and running, offering basic troubleshooting steps in case of issues.
+
+## How to Contribute
+
+We welcome contributions to improve this project! If you would like to contribute, please read our [CONTRIBUTING.md](CONTRIBUTING.md) file to learn how you can help us make this project better.
