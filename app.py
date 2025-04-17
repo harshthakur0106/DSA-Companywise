@@ -3,8 +3,8 @@ import pandas as pd
 import os
 
 # --- Config ---
-st.set_page_config(page_title="LeetCode Questions by Company", layout="wide")
-st.title("💼 LeetCode Questions by Company")
+st.set_page_config(page_title="CompanyWise DSA Q&A", layout="wide")
+st.title("💼 Comapny Wise DSA Sheet")
 
 # --- Load Answer CSV (Global for all companies) ---
 ANSWER_PATH = "answers/answers.csv"  # single file with answers
