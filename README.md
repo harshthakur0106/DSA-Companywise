@@ -50,4 +50,4 @@ Once the app is loaded, you will be able to:
 
 
 
-We welcome contributions to improve this project! If you would like to contribute, please read our [CONTRIBUTING.md](CONTRIBUTING.md) file to learn how you can help us make this project better.
+
